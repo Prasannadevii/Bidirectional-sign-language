@@ -1,0 +1,9 @@
+torch
+torchvision
+torchaudio
+scikit-fuzzy
+opencv-python
+mediapipe
+pyttsx3
+SpeechRecognition
+numpy
